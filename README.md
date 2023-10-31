@@ -19,7 +19,7 @@ The Step Function consists of the following three phases:
 ## Solution Architecture
 
 <!-- Placeholder for Solution Architecture Diagram -->
-
+![Audio ChatBot Solution Architecture](Audio-Chatbot-solution-architecture.png)
 ### Usage
 
 1. Follow the setup steps outlined in the [Audio ChatBot using Bedrock LLM, Transcribe, and Polly: Complete Workflow Tutorial (video)](https://youtu.be/ulk2UwK8rpE) to configure and set up the necessary resources on the cloud.
