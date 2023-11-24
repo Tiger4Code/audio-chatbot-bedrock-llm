@@ -24,6 +24,7 @@ The Step Function consists of the following three phases:
 
 1. Follow the setup steps outlined in the [Audio ChatBot using Bedrock LLM, Transcribe, and Polly: Complete Workflow Tutorial (video)](https://youtu.be/ulk2UwK8rpE) to configure and set up the necessary resources on the cloud.
 2. Clone the repository.
+3. Follow the setup steps outlined in the [Lambda Langchain Layer](4-Bedrock-lambda-function/README.md)
 3. Create a Python virtual environment, activate it, and install the required libraries listed in the `requirements.txt` file using the command: `pip install -r requirements.txt`.
 4. Navigate to the `1-main-app-record-audio` directory.
 5. Run the application using the command: `python 1-record_audio_upload2s3.py`.
